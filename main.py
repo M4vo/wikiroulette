@@ -1,7 +1,7 @@
 from tkinter import *
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
-
+####
 url = "https://pl.wikipedia.org/wiki/Specjalna:Losowa_strona"
 
 def content_format(content):
